@@ -56,7 +56,7 @@ body{
   justify-content: space-around;
 }
 
-#election #simbolos div, #play{
+#election #simbolos div, #playbtn{
   width: 200px;
   background-color: white;
   color: black;
@@ -70,7 +70,7 @@ body{
   font-weight: bold;
 }
 
-#election #simbolos div:hover, #play:hover{
+#election #simbolos div:hover, #playbtn:hover{
   background-color: rgb(236, 223, 36);
 }
 
